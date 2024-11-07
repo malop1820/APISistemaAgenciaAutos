@@ -1,0 +1,22 @@
+
+  .custom-main-btn {
+    background-color: #4c6baf; /* Verde personalizado */
+    color: white;
+    border: none;
+  }
+
+  .custom-main-btn:hover {
+    background-color: #201491; /* Verde más oscuro al pasar el cursor */
+  }
+
+  .custom-small-btn {
+    background-color: #27a55c; /* Naranja personalizado */
+    color: white;
+    border: none;
+  }
+
+  .custom-small-btn:hover {
+    background-color: #1cb149; /* Naranja más oscuro al pasar el cursor */
+  }
+
+  
